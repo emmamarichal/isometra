@@ -1,19 +1,11 @@
 {
-.appVersion = "3343";
+.appVersion = "3516";
 .formatVersion = 3;
 customParameters = (
 {
 name = fsType;
 value = (
 );
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
 },
 {
 name = "Use Typo Metrics";
@@ -5689,20 +5681,11 @@ type = "italic angle";
 );
 properties = (
 {
-key = compatibleFullNames;
-values = (
-{
-language = dflt;
-value = "Isometra Regular";
-}
-);
-},
-{
 key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 Ben Dunkle (https://github.com/field2/isometra)";
+value = "Copyright 2025 The Isometra Project Authors (https://github.com/field2/isometra)";
 }
 );
 },
@@ -5717,7 +5700,7 @@ value = "Ben Dunkle";
 },
 {
 key = designerURL;
-value = "http://field2.com";
+value = "https://field2.com";
 },
 {
 key = familyNames;
@@ -5733,9 +5716,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "https://openfontlicense.org/documents/OFL.txt";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
 }
 );
 unitsPerEm = 1000;
