@@ -1331,7 +1331,7 @@ unicode = 302;
 {
 color = 4;
 glyphname = J;
-lastChange = "2026-07-30 12:32:16 +0000";
+lastChange = "2026-07-30 12:36:50 +0000";
 layers = (
 {
 anchors = (
@@ -1341,7 +1341,7 @@ pos = (413,0);
 },
 {
 name = top;
-pos = (413,800);
+pos = (593,800);
 }
 );
 layerId = m01;
@@ -4482,15 +4482,52 @@ metricRight = H;
 unicode = 106;
 },
 {
-color = 3;
+color = 4;
 glyphname = jdotless;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:36:44 +0000";
 layers = (
 {
-layerId = m01;
-width = 600;
+anchors = (
+{
+name = bottom;
+pos = (351,-210);
+},
+{
+name = top;
+pos = (489,600);
 }
 );
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,600,l),
+(203,400,l),
+(382,400,l),
+(382,95,ls),
+(382,45,o),
+(348,10,o),
+(289,10,cs),
+(203,10,o),
+(145,118,o),
+(145,200,c),
+(30,0,l),
+(52,-74,o),
+(125,-200,o),
+(307,-200,cs),
+(573,-200,o),
+(607,10,o),
+(607,100,cs),
+(607,500,l),
+(671,600,l)
+);
+}
+);
+width = 701;
+}
+);
+metricRight = j;
 unicode = 567;
 },
 {
