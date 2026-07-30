@@ -2,7 +2,8 @@
 .appVersion = "3516";
 .formatVersion = 3;
 DisplayStrings = (
-Hnl
+Hnl,
+"/nbspace"
 );
 customParameters = (
 {
@@ -2988,13 +2989,14 @@ unicode = 32;
 },
 {
 glyphname = nbspace;
-lastChange = "2025-04-04 20:56:55 +0000";
+lastChange = "2026-07-30 12:08:39 +0000";
 layers = (
 {
 layerId = m01;
-width = 560;
+width = 400;
 }
 );
+metricWidth = space;
 unicode = 160;
 },
 {
