@@ -1,6 +1,9 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
+DisplayStrings = (
+Hnl
+);
 customParameters = (
 {
 name = fsType;
@@ -26,11 +29,25 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
 ";
 name = Languagesystems;
 }
 );
 features = (
+{
+automatic = 1;
+code = "lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub fl by f l;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
+tag = ccmp;
+},
 {
 automatic = 1;
 code = "lookupflag IgnoreMarks;
@@ -42,11 +59,45 @@ tag = liga;
 );
 fontMaster = (
 {
+customParameters = (
+{
+name = typoAscender;
+value = 1050;
+},
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 902;
+},
+{
+name = winDescent;
+value = 200;
+}
+);
 id = m01;
 metricValues = (
 {
 over = 16;
-pos = 1000;
+pos = 800;
 },
 {
 over = 16;
@@ -62,8 +113,6 @@ over = -16;
 {
 over = -16;
 pos = -210;
-},
-{
 }
 );
 name = Regular;
@@ -1751,7 +1800,7 @@ unicode = 109;
 },
 {
 glyphname = n;
-lastChange = "2025-04-18 19:03:46 +0000";
+lastChange = "2026-07-30 10:01:31 +0000";
 layers = (
 {
 layerId = m01;
@@ -1762,16 +1811,16 @@ nodes = (
 (557,0,l),
 (850,0,l),
 (765,152,l),
-(765,329,l),
+(765,329,ls),
 (765,491,o),
 (671,603,o),
-(514,603,c),
+(514,603,cs),
 (454,603,o),
 (398,586,o),
 (347,559,c),
 (347,600,l),
 (30,600,l),
-(116,452,l),
+(117,452,l),
 (117,150,l),
 (31,0,l),
 (347,0,l),
@@ -1781,7 +1830,7 @@ nodes = (
 (438,400,c),
 (505,400,o),
 (557,360,o),
-(557,288,c)
+(557,288,cs)
 );
 }
 );
@@ -5674,9 +5723,6 @@ type = baseline;
 },
 {
 type = descender;
-},
-{
-type = "italic angle";
 }
 );
 properties = (
