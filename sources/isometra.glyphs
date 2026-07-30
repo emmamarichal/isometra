@@ -1,9 +1,6 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
-DisplayStrings = (
-"…"
-);
 customParameters = (
 {
 name = fsType;
@@ -3008,6 +3005,28 @@ width = 560;
 }
 );
 unicode = 13;
+},
+{
+glyphname = lineseparator;
+lastChange = "2026-07-30 12:10:06 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+lastChange = "2026-07-30 12:10:06 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8233;
 },
 {
 glyphname = period;
