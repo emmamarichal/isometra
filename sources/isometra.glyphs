@@ -2,8 +2,7 @@
 .appVersion = "3516";
 .formatVersion = 3;
 DisplayStrings = (
-Hnl,
-"/nbspace"
+"…"
 );
 customParameters = (
 {
@@ -3126,26 +3125,21 @@ unicode = 59;
 },
 {
 glyphname = ellipsis;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:09:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+pos = (-30,0);
 ref = period;
 },
 {
+pos = (284,0);
 ref = period;
 },
 {
-ref = period;
-},
-{
-pos = (314,0);
-ref = period;
-},
-{
-pos = (629,0);
+pos = (599,0);
 ref = period;
 }
 );
