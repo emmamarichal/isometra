@@ -117,8 +117,9 @@ name = Regular;
 );
 glyphs = (
 {
+color = 4;
 glyphname = A;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -173,9 +174,9 @@ metricRight = H;
 unicode = 65;
 },
 {
-color = 9;
+color = 4;
 glyphname = Aacute;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -214,9 +215,9 @@ width = 1161;
 unicode = 258;
 },
 {
-color = 9;
+color = 3;
 glyphname = Acircumflex;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:28:10 +0000";
 layers = (
 {
 layerId = m01;
@@ -246,9 +247,9 @@ width = 1161;
 unicode = 196;
 },
 {
-color = 9;
+color = 4;
 glyphname = Agrave;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -360,8 +361,9 @@ width = 600;
 unicode = 198;
 },
 {
+color = 4;
 glyphname = B;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -439,8 +441,9 @@ metricRight = H;
 unicode = 66;
 },
 {
+color = 4;
 glyphname = C;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -576,8 +579,9 @@ width = 856;
 unicode = 266;
 },
 {
+color = 4;
 glyphname = D;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -684,8 +688,9 @@ width = 600;
 unicode = 208;
 },
 {
+color = 4;
 glyphname = E;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -900,9 +905,10 @@ width = 925;
 unicode = 280;
 },
 {
+color = 4;
 glyphname = F;
 kernRight = A;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -944,8 +950,9 @@ metricRight = H;
 unicode = 70;
 },
 {
+color = 4;
 glyphname = G;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -1064,8 +1071,9 @@ width = 977;
 unicode = 288;
 },
 {
+color = 4;
 glyphname = H;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -1120,9 +1128,9 @@ width = 1011;
 unicode = 72;
 },
 {
-color = 3;
+color = 1;
 glyphname = Hbar;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -1132,8 +1140,9 @@ width = 600;
 unicode = 294;
 },
 {
+color = 4;
 glyphname = I;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -1320,8 +1329,9 @@ width = 491;
 unicode = 302;
 },
 {
+color = 4;
 glyphname = J;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -1370,8 +1380,9 @@ metricRight = H;
 unicode = 74;
 },
 {
+color = 4;
 glyphname = K;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -1439,8 +1450,9 @@ width = 984;
 unicode = 310;
 },
 {
+color = 4;
 glyphname = L;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -1454,7 +1466,7 @@ pos = (433,400);
 },
 {
 name = top;
-pos = (433,800);
+pos = (247,800);
 },
 {
 name = topright;
@@ -1488,7 +1500,7 @@ unicode = 76;
 {
 color = 4;
 glyphname = Lacute;
-lastChange = "2026-07-30 12:26:25 +0000";
+lastChange = "2026-07-30 12:31:57 +0000";
 layers = (
 {
 layerId = m01;
@@ -1497,7 +1509,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (232,200);
+pos = (46,200);
 ref = acutecomb;
 }
 );
@@ -1547,9 +1559,9 @@ width = 865;
 unicode = 315;
 },
 {
-color = 3;
+color = 1;
 glyphname = Lslash;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -1559,8 +1571,9 @@ width = 600;
 unicode = 321;
 },
 {
+color = 4;
 glyphname = M;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -1607,8 +1620,9 @@ metricRight = H;
 unicode = 77;
 },
 {
+color = 4;
 glyphname = N;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -1735,8 +1749,9 @@ width = 1070;
 unicode = 209;
 },
 {
+color = 4;
 glyphname = O;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -1912,9 +1927,9 @@ width = 919;
 unicode = 336;
 },
 {
-color = 3;
+color = 1;
 glyphname = Oslash;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -1945,9 +1960,9 @@ width = 919;
 unicode = 213;
 },
 {
-color = 3;
+color = 1;
 glyphname = OE;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -1957,8 +1972,9 @@ width = 600;
 unicode = 338;
 },
 {
+color = 4;
 glyphname = P;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -2015,9 +2031,9 @@ metricRight = H;
 unicode = 80;
 },
 {
-color = 3;
+color = 1;
 glyphname = Thorn;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:30:54 +0000";
 layers = (
 {
 layerId = m01;
@@ -2027,8 +2043,9 @@ width = 600;
 unicode = 222;
 },
 {
+color = 4;
 glyphname = Q;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -2098,8 +2115,9 @@ metricRight = H;
 unicode = 81;
 },
 {
+color = 4;
 glyphname = R;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -2200,8 +2218,9 @@ width = 967;
 unicode = 344;
 },
 {
+color = 4;
 glyphname = S;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -2345,9 +2364,9 @@ width = 867;
 unicode = 536;
 },
 {
-color = 3;
+color = 0;
 glyphname = Germandbls;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:24 +0000";
 layers = (
 {
 layerId = m01;
@@ -2357,8 +2376,9 @@ width = 600;
 unicode = 7838;
 },
 {
+color = 4;
 glyphname = T;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -2443,8 +2463,9 @@ width = 1099;
 unicode = 538;
 },
 {
+color = 4;
 glyphname = U;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -2665,9 +2686,10 @@ width = 1053;
 unicode = 366;
 },
 {
+color = 4;
 glyphname = V;
 kernRight = V;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -2706,9 +2728,10 @@ metricRight = H;
 unicode = 86;
 },
 {
+color = 4;
 glyphname = W;
 kernRight = V;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -2832,8 +2855,9 @@ width = 1544;
 unicode = 7808;
 },
 {
+color = 4;
 glyphname = X;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -2882,8 +2906,9 @@ metricRight = H;
 unicode = 88;
 },
 {
+color = 4;
 glyphname = Y;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -3011,8 +3036,9 @@ width = 1193;
 unicode = 7922;
 },
 {
+color = 4;
 glyphname = Z;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -3116,8 +3142,9 @@ width = 983;
 unicode = 379;
 },
 {
+color = 4;
 glyphname = a;
-lastChange = "2026-07-30 12:24:53 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -3360,9 +3387,9 @@ width = 756;
 unicode = 227;
 },
 {
-color = 3;
+color = 1;
 glyphname = ae;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:30:27 +0000";
 layers = (
 {
 layerId = m01;
@@ -3372,8 +3399,9 @@ width = 600;
 unicode = 230;
 },
 {
+color = 4;
 glyphname = b;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -3436,9 +3464,10 @@ metricRight = H;
 unicode = 98;
 },
 {
+color = 4;
 glyphname = c;
 kernLeft = o;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -3570,8 +3599,9 @@ width = 679;
 unicode = 267;
 },
 {
+color = 4;
 glyphname = d;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -3659,9 +3689,9 @@ width = 790;
 unicode = 271;
 },
 {
-color = 3;
+color = 1;
 glyphname = dcroat;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -3671,9 +3701,9 @@ width = 600;
 unicode = 273;
 },
 {
-color = 3;
+color = 0;
 glyphname = eth;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:18 +0000";
 layers = (
 {
 layerId = m01;
@@ -3683,8 +3713,9 @@ width = 600;
 unicode = 240;
 },
 {
+color = 4;
 glyphname = e;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -3909,9 +3940,10 @@ width = 696;
 unicode = 281;
 },
 {
+color = 4;
 glyphname = f;
 kernRight = a;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -3966,8 +3998,9 @@ metricRight = H;
 unicode = 102;
 },
 {
+color = 4;
 glyphname = g;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -4099,8 +4132,9 @@ width = 732;
 unicode = 289;
 },
 {
+color = 4;
 glyphname = h;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:16 +0000";
 layers = (
 {
 anchors = (
@@ -4158,9 +4192,9 @@ metricRight = H;
 unicode = 104;
 },
 {
-color = 3;
+color = 1;
 glyphname = hbar;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:30:34 +0000";
 layers = (
 {
 layerId = m01;
@@ -4170,8 +4204,9 @@ width = 600;
 unicode = 295;
 },
 {
+color = 6;
 glyphname = i;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:31:24 +0000";
 layers = (
 {
 anchors = (
@@ -4212,15 +4247,46 @@ metricRight = H;
 unicode = 105;
 },
 {
-color = 3;
+color = 4;
 glyphname = idotless;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:32:25 +0000";
 layers = (
 {
-layerId = m01;
-width = 600;
+anchors = (
+{
+name = bottom;
+pos = (220,0);
+},
+{
+name = ogonek;
+pos = (409,0);
+},
+{
+name = top;
+pos = (220,600);
 }
 );
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,600,l),
+(88,500,l),
+(88,100,l),
+(30,0,l),
+(405,0,l),
+(348,100,l),
+(348,504,l),
+(409,600,l)
+);
+}
+);
+width = 439;
+}
+);
+metricLeft = i;
+metricRight = i;
 unicode = 305;
 },
 {
@@ -4235,10 +4301,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (19,0);
 ref = acutecomb;
 }
 );
-width = 600;
+width = 439;
 }
 );
 unicode = 237;
@@ -4314,10 +4381,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-1,0);
 ref = gravecomb;
 }
 );
-width = 600;
+width = 439;
 }
 );
 unicode = 236;
@@ -4366,8 +4434,9 @@ width = 600;
 unicode = 303;
 },
 {
+color = 6;
 glyphname = j;
-lastChange = "2026-07-30 12:16:08 +0000";
+lastChange = "2026-07-30 12:32:23 +0000";
 layers = (
 {
 layerId = m01;
@@ -4425,9 +4494,10 @@ width = 600;
 unicode = 567;
 },
 {
+color = 4;
 glyphname = k;
 kernRight = o;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -4491,8 +4561,9 @@ width = 902;
 unicode = 311;
 },
 {
+color = 4;
 glyphname = l;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -4596,9 +4667,9 @@ width = 496;
 unicode = 316;
 },
 {
-color = 3;
+color = 1;
 glyphname = lslash;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -4608,8 +4679,9 @@ width = 600;
 unicode = 322;
 },
 {
+color = 4;
 glyphname = m;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -4677,8 +4749,9 @@ metricRight = H;
 unicode = 109;
 },
 {
+color = 4;
 glyphname = n;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -4812,8 +4885,9 @@ width = 880;
 unicode = 241;
 },
 {
+color = 4;
 glyphname = o;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -4983,9 +5057,9 @@ width = 749;
 unicode = 337;
 },
 {
-color = 3;
+color = 1;
 glyphname = oslash;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -5016,9 +5090,9 @@ width = 749;
 unicode = 245;
 },
 {
-color = 3;
+color = 1;
 glyphname = oe;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -5028,8 +5102,9 @@ width = 600;
 unicode = 339;
 },
 {
+color = 4;
 glyphname = p;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -5098,8 +5173,9 @@ width = 600;
 unicode = 254;
 },
 {
+color = 4;
 glyphname = q;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -5154,8 +5230,9 @@ metricLeft = H;
 unicode = 113;
 },
 {
+color = 4;
 glyphname = r;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -5246,8 +5323,9 @@ width = 756;
 unicode = 345;
 },
 {
+color = 4;
 glyphname = s;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -5391,9 +5469,9 @@ width = 671;
 unicode = 537;
 },
 {
-color = 3;
+color = 0;
 glyphname = germandbls;
-lastChange = "2026-07-30 12:22:59 +0000";
+lastChange = "2026-07-30 12:28:53 +0000";
 layers = (
 {
 layerId = m01;
@@ -5403,8 +5481,9 @@ width = 600;
 unicode = 223;
 },
 {
+color = 4;
 glyphname = t;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -5497,8 +5576,9 @@ width = 672;
 unicode = 539;
 },
 {
+color = 4;
 glyphname = u;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -5720,10 +5800,11 @@ width = 880;
 unicode = 367;
 },
 {
+color = 4;
 glyphname = v;
 kernLeft = v;
 kernRight = w;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -5762,10 +5843,11 @@ metricRight = H;
 unicode = 118;
 },
 {
+color = 4;
 glyphname = w;
 kernLeft = v;
 kernRight = v;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -5808,9 +5890,9 @@ metricRight = H;
 unicode = 119;
 },
 {
-color = 3;
+color = 4;
 glyphname = wacute;
-lastChange = "2026-07-30 12:23:17 +0000";
+lastChange = "2026-07-30 12:34:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -5869,9 +5951,9 @@ width = 1140;
 unicode = 7813;
 },
 {
-color = 3;
+color = 4;
 glyphname = wgrave;
-lastChange = "2026-07-30 12:23:17 +0000";
+lastChange = "2026-07-30 12:34:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -5890,9 +5972,10 @@ width = 1140;
 unicode = 7809;
 },
 {
+color = 4;
 glyphname = x;
 kernRight = x;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -5941,8 +6024,9 @@ metricRight = H;
 unicode = 120;
 },
 {
+color = 4;
 glyphname = y;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -6067,9 +6151,9 @@ width = 762;
 unicode = 255;
 },
 {
-color = 3;
+color = 4;
 glyphname = ygrave;
-lastChange = "2026-07-30 12:23:17 +0000";
+lastChange = "2026-07-30 12:33:51 +0000";
 layers = (
 {
 layerId = m01;
@@ -6088,8 +6172,9 @@ width = 762;
 unicode = 7923;
 },
 {
+color = 4;
 glyphname = z;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:32:19 +0000";
 layers = (
 {
 anchors = (
@@ -6193,8 +6278,9 @@ width = 812;
 unicode = 380;
 },
 {
+color = 4;
 glyphname = f_f_l;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:33:43 +0000";
 layers = (
 {
 anchors = (
@@ -6292,8 +6378,9 @@ metricLeft = H;
 metricRight = H;
 },
 {
+color = 4;
 glyphname = fl;
-lastChange = "2026-07-30 12:16:18 +0000";
+lastChange = "2026-07-30 12:33:43 +0000";
 layers = (
 {
 anchors = (
@@ -6346,9 +6433,9 @@ metricRight = H;
 unicode = 64258;
 },
 {
-color = 9;
+color = 0;
 glyphname = ordfeminine;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:16 +0000";
 layers = (
 {
 layerId = m01;
@@ -6363,9 +6450,9 @@ width = 756;
 unicode = 170;
 },
 {
-color = 9;
+color = 0;
 glyphname = ordmasculine;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:16 +0000";
 layers = (
 {
 layerId = m01;
@@ -6380,8 +6467,9 @@ width = 749;
 unicode = 186;
 },
 {
+color = 4;
 glyphname = zero;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6440,8 +6528,9 @@ metricRight = H;
 unicode = 48;
 },
 {
+color = 4;
 glyphname = one;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6467,8 +6556,9 @@ metricRight = H;
 unicode = 49;
 },
 {
+color = 4;
 glyphname = two;
-lastChange = "2025-04-18 17:50:14 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6508,8 +6598,9 @@ metricRight = H;
 unicode = 50;
 },
 {
+color = 4;
 glyphname = three;
-lastChange = "2026-07-30 12:12:36 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6556,8 +6647,9 @@ metricRight = H;
 unicode = 51;
 },
 {
+color = 4;
 glyphname = four;
-lastChange = "2026-07-30 12:12:42 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6594,8 +6686,9 @@ metricRight = H;
 unicode = 52;
 },
 {
+color = 4;
 glyphname = five;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6637,8 +6730,9 @@ metricRight = H;
 unicode = 53;
 },
 {
+color = 4;
 glyphname = six;
-lastChange = "2025-04-17 15:05:48 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6696,8 +6790,9 @@ metricRight = H;
 unicode = 54;
 },
 {
+color = 4;
 glyphname = seven;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6724,8 +6819,9 @@ metricRight = H;
 unicode = 55;
 },
 {
+color = 4;
 glyphname = eight;
-lastChange = "2026-07-30 12:13:36 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6802,8 +6898,9 @@ metricRight = H;
 unicode = 56;
 },
 {
+color = 4;
 glyphname = nine;
-lastChange = "2025-04-17 15:11:26 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6889,9 +6986,9 @@ metricWidth = space;
 unicode = 160;
 },
 {
-color = 9;
+color = 0;
 glyphname = .notdef;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:55 +0000";
 layers = (
 {
 layerId = m01;
@@ -6933,8 +7030,9 @@ width = 600;
 unicode = 8233;
 },
 {
+color = 4;
 glyphname = period;
-lastChange = "2025-04-18 15:44:20 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6955,8 +7053,9 @@ metricRight = H;
 unicode = 46;
 },
 {
+color = 4;
 glyphname = comma;
-lastChange = "2025-04-18 15:44:13 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -6982,8 +7081,9 @@ metricRight = H;
 unicode = 44;
 },
 {
+color = 4;
 glyphname = colon;
-lastChange = "2025-04-17 15:12:31 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7012,8 +7112,9 @@ metricRight = H;
 unicode = 58;
 },
 {
+color = 4;
 glyphname = semicolon;
-lastChange = "2025-04-17 15:12:57 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7047,8 +7148,9 @@ metricRight = H;
 unicode = 59;
 },
 {
+color = 4;
 glyphname = ellipsis;
-lastChange = "2026-07-30 12:09:13 +0000";
+lastChange = "2026-07-30 12:33:35 +0000";
 layers = (
 {
 layerId = m01;
@@ -7074,8 +7176,9 @@ metricRight = H;
 unicode = 8230;
 },
 {
+color = 4;
 glyphname = exclam;
-lastChange = "2026-07-30 12:12:47 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7108,8 +7211,9 @@ metricRight = H;
 unicode = 33;
 },
 {
+color = 6;
 glyphname = exclamdown;
-lastChange = "2026-07-30 12:12:52 +0000";
+lastChange = "2026-07-30 12:32:40 +0000";
 layers = (
 {
 layerId = m01;
@@ -7142,8 +7246,9 @@ metricRight = H;
 unicode = 161;
 },
 {
+color = 6;
 glyphname = question;
-lastChange = "2026-07-30 12:13:01 +0000";
+lastChange = "2026-07-30 12:32:40 +0000";
 layers = (
 {
 layerId = m01;
@@ -7190,9 +7295,9 @@ metricRight = H;
 unicode = 63;
 },
 {
-color = 9;
+color = 3;
 glyphname = questiondown;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -7202,9 +7307,9 @@ width = 600;
 unicode = 191;
 },
 {
-color = 9;
+color = 3;
 glyphname = periodcentered;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:51 +0000";
 layers = (
 {
 layerId = m01;
@@ -7214,8 +7319,9 @@ width = 600;
 unicode = 183;
 },
 {
+color = 4;
 glyphname = bullet;
-lastChange = "2025-04-17 15:15:19 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7237,8 +7343,9 @@ metricRight = H;
 unicode = 8226;
 },
 {
+color = 4;
 glyphname = asterisk;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7275,8 +7382,9 @@ metricRight = H;
 unicode = 42;
 },
 {
+color = 4;
 glyphname = numbersign;
-lastChange = "2025-04-17 15:17:58 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7330,8 +7438,9 @@ width = 1237;
 unicode = 35;
 },
 {
+color = 4;
 glyphname = slash;
-lastChange = "2025-04-17 15:18:26 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7353,8 +7462,9 @@ metricLeft = H;
 unicode = 47;
 },
 {
+color = 4;
 glyphname = backslash;
-lastChange = "2025-04-17 15:18:45 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7376,9 +7486,9 @@ metricRight = H;
 unicode = 92;
 },
 {
-color = 9;
+color = 3;
 glyphname = periodcentered.loclCAT;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:51 +0000";
 layers = (
 {
 layerId = m01;
@@ -7387,8 +7497,9 @@ width = 600;
 );
 },
 {
+color = 4;
 glyphname = periodcentered.loclCAT.case;
-lastChange = "2025-04-17 15:19:12 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7409,8 +7520,9 @@ metricLeft = H;
 metricRight = H;
 },
 {
+color = 4;
 glyphname = hyphen;
-lastChange = "2025-04-17 15:20:32 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7433,8 +7545,9 @@ metricRight = H;
 unicode = 45;
 },
 {
+color = 4;
 glyphname = endash;
-lastChange = "2025-04-17 15:20:23 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7457,8 +7570,9 @@ metricRight = H;
 unicode = 8211;
 },
 {
+color = 4;
 glyphname = emdash;
-lastChange = "2025-04-17 15:20:42 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7481,8 +7595,9 @@ metricRight = H;
 unicode = 8212;
 },
 {
+color = 4;
 glyphname = underscore;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7505,8 +7620,9 @@ metricRight = H;
 unicode = 95;
 },
 {
+color = 4;
 glyphname = parenleft;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7539,8 +7655,9 @@ metricRight = H;
 unicode = 40;
 },
 {
+color = 4;
 glyphname = parenright;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7573,8 +7690,9 @@ metricRight = H;
 unicode = 41;
 },
 {
+color = 6;
 glyphname = braceleft;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:49 +0000";
 layers = (
 {
 layerId = m01;
@@ -7603,8 +7721,9 @@ metricRight = H;
 unicode = 123;
 },
 {
+color = 6;
 glyphname = braceright;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:49 +0000";
 layers = (
 {
 layerId = m01;
@@ -7633,8 +7752,9 @@ metricRight = H;
 unicode = 125;
 },
 {
+color = 4;
 glyphname = bracketleft;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7661,8 +7781,9 @@ metricRight = H;
 unicode = 91;
 },
 {
+color = 4;
 glyphname = bracketright;
-lastChange = "2024-06-30 14:22:53 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7689,8 +7810,9 @@ metricRight = H;
 unicode = 93;
 },
 {
+color = 4;
 glyphname = quotesinglbase;
-lastChange = "2025-04-04 23:11:31 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7714,8 +7836,9 @@ metricRight = H;
 unicode = 8218;
 },
 {
+color = 4;
 glyphname = quotedblbase;
-lastChange = "2025-04-04 23:12:09 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7748,8 +7871,9 @@ metricLeft = H;
 unicode = 8222;
 },
 {
+color = 4;
 glyphname = quotedblleft;
-lastChange = "2025-04-17 15:21:45 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7787,8 +7911,9 @@ metricRight = H;
 unicode = 8220;
 },
 {
+color = 4;
 glyphname = quotedblright;
-lastChange = "2025-04-18 15:51:45 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7826,8 +7951,9 @@ metricRight = H;
 unicode = 8221;
 },
 {
+color = 4;
 glyphname = quoteleft;
-lastChange = "2025-04-17 15:22:14 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7853,8 +7979,9 @@ metricRight = H;
 unicode = 8216;
 },
 {
+color = 4;
 glyphname = quoteright;
-lastChange = "2025-04-18 15:51:37 +0000";
+lastChange = "2026-07-30 12:32:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -7880,8 +8007,9 @@ metricRight = H;
 unicode = 8217;
 },
 {
+color = 6;
 glyphname = guillemetleft;
-lastChange = "2025-04-17 15:22:39 +0000";
+lastChange = "2026-07-30 12:29:50 +0000";
 layers = (
 {
 layerId = m01;
@@ -7917,8 +8045,9 @@ metricRight = H;
 unicode = 171;
 },
 {
+color = 6;
 glyphname = guillemetright;
-lastChange = "2025-04-17 15:22:59 +0000";
+lastChange = "2026-07-30 12:29:50 +0000";
 layers = (
 {
 layerId = m01;
@@ -7954,8 +8083,9 @@ metricRight = H;
 unicode = 187;
 },
 {
+color = 6;
 glyphname = guilsinglleft;
-lastChange = "2025-04-17 15:23:07 +0000";
+lastChange = "2026-07-30 12:29:54 +0000";
 layers = (
 {
 layerId = m01;
@@ -7980,8 +8110,9 @@ metricRight = H;
 unicode = 8249;
 },
 {
+color = 6;
 glyphname = guilsinglright;
-lastChange = "2025-04-17 15:23:16 +0000";
+lastChange = "2026-07-30 12:29:54 +0000";
 layers = (
 {
 layerId = m01;
@@ -8006,8 +8137,9 @@ metricRight = H;
 unicode = 8250;
 },
 {
+color = 4;
 glyphname = quotedbl;
-lastChange = "2025-04-17 15:23:25 +0000";
+lastChange = "2026-07-30 12:33:35 +0000";
 layers = (
 {
 layerId = m01;
@@ -8041,8 +8173,9 @@ metricRight = H;
 unicode = 34;
 },
 {
+color = 4;
 glyphname = quotesingle;
-lastChange = "2025-04-17 15:23:32 +0000";
+lastChange = "2026-07-30 12:33:35 +0000";
 layers = (
 {
 layerId = m01;
@@ -8128,8 +8261,9 @@ metricRight = H;
 unicode = 64;
 },
 {
+color = 6;
 glyphname = ampersand;
-lastChange = "2026-07-30 12:13:11 +0000";
+lastChange = "2026-07-30 12:32:54 +0000";
 layers = (
 {
 layerId = m01;
@@ -8211,9 +8345,9 @@ width = 748;
 unicode = 182;
 },
 {
-color = 9;
+color = 0;
 glyphname = section;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:58 +0000";
 layers = (
 {
 layerId = m01;
@@ -8707,9 +8841,9 @@ metricRight = H;
 unicode = 8364;
 },
 {
-color = 9;
+color = 0;
 glyphname = sterling;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:58 +0000";
 layers = (
 {
 layerId = m01;
@@ -8831,8 +8965,9 @@ width = 823;
 unicode = 8722;
 },
 {
+color = 6;
 glyphname = multiply;
-lastChange = "2026-07-30 12:13:58 +0000";
+lastChange = "2026-07-30 12:29:35 +0000";
 layers = (
 {
 layerId = m01;
@@ -8961,8 +9096,9 @@ metricRight = H;
 unicode = 61;
 },
 {
+color = 6;
 glyphname = greater;
-lastChange = "2025-04-17 15:32:47 +0000";
+lastChange = "2026-07-30 12:33:13 +0000";
 layers = (
 {
 layerId = m01;
@@ -8987,8 +9123,9 @@ metricRight = H;
 unicode = 62;
 },
 {
+color = 6;
 glyphname = less;
-lastChange = "2025-04-17 15:33:04 +0000";
+lastChange = "2026-07-30 12:33:13 +0000";
 layers = (
 {
 layerId = m01;
@@ -9047,8 +9184,9 @@ metricRight = H;
 unicode = 126;
 },
 {
+color = 6;
 glyphname = asciicircum;
-lastChange = "2025-04-17 15:33:32 +0000";
+lastChange = "2026-07-30 12:33:13 +0000";
 layers = (
 {
 layerId = m01;
@@ -9131,9 +9269,9 @@ metricRight = H;
 unicode = 37;
 },
 {
-color = 9;
+color = 0;
 glyphname = dieresiscomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9143,9 +9281,9 @@ width = 300;
 unicode = 776;
 },
 {
-color = 9;
+color = 0;
 glyphname = dotaccentcomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9155,9 +9293,9 @@ width = 300;
 unicode = 775;
 },
 {
-color = 9;
+color = 4;
 glyphname = gravecomb;
-lastChange = "2026-07-30 12:24:41 +0000";
+lastChange = "2026-07-30 12:27:38 +0000";
 layers = (
 {
 anchors = (
@@ -9188,9 +9326,9 @@ width = 440;
 unicode = 768;
 },
 {
-color = 9;
+color = 4;
 glyphname = acutecomb;
-lastChange = "2026-07-30 12:25:10 +0000";
+lastChange = "2026-07-30 12:27:38 +0000";
 layers = (
 {
 anchors = (
@@ -9221,9 +9359,9 @@ width = 440;
 unicode = 769;
 },
 {
-color = 9;
+color = 0;
 glyphname = hungarumlautcomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9233,9 +9371,9 @@ width = 300;
 unicode = 779;
 },
 {
-color = 9;
+color = 0;
 glyphname = caroncomb.alt;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9244,9 +9382,9 @@ width = 300;
 );
 },
 {
-color = 9;
+color = 0;
 glyphname = circumflexcomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9256,9 +9394,9 @@ width = 300;
 unicode = 770;
 },
 {
-color = 9;
+color = 0;
 glyphname = caroncomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9268,9 +9406,9 @@ width = 300;
 unicode = 780;
 },
 {
-color = 9;
+color = 0;
 glyphname = brevecomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9280,9 +9418,9 @@ width = 300;
 unicode = 774;
 },
 {
-color = 9;
+color = 0;
 glyphname = ringcomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9292,9 +9430,9 @@ width = 300;
 unicode = 778;
 },
 {
-color = 9;
+color = 4;
 glyphname = tildecomb;
-lastChange = "2026-07-30 12:25:32 +0000";
+lastChange = "2026-07-30 12:27:38 +0000";
 layers = (
 {
 anchors = (
@@ -9341,9 +9479,9 @@ width = 519;
 unicode = 771;
 },
 {
-color = 9;
+color = 0;
 glyphname = macroncomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9353,9 +9491,9 @@ width = 300;
 unicode = 772;
 },
 {
-color = 9;
+color = 0;
 glyphname = commaaccentcomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9365,9 +9503,9 @@ width = 300;
 unicode = 806;
 },
 {
-color = 9;
+color = 0;
 glyphname = cedillacomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9377,9 +9515,9 @@ width = 300;
 unicode = 807;
 },
 {
-color = 9;
+color = 0;
 glyphname = ogonekcomb;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -9389,9 +9527,9 @@ width = 300;
 unicode = 808;
 },
 {
-color = 9;
+color = 3;
 glyphname = dieresis;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -9401,9 +9539,9 @@ width = 300;
 unicode = 168;
 },
 {
-color = 9;
+color = 3;
 glyphname = dotaccent;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -9413,8 +9551,9 @@ width = 300;
 unicode = 729;
 },
 {
+color = 4;
 glyphname = grave;
-lastChange = "2026-07-30 12:22:44 +0000";
+lastChange = "2026-07-30 12:33:23 +0000";
 layers = (
 {
 layerId = m01;
@@ -9429,8 +9568,9 @@ width = 440;
 unicode = 96;
 },
 {
+color = 4;
 glyphname = acute;
-lastChange = "2026-07-30 12:22:44 +0000";
+lastChange = "2026-07-30 12:33:23 +0000";
 layers = (
 {
 layerId = m01;
@@ -9445,9 +9585,9 @@ width = 440;
 unicode = 180;
 },
 {
-color = 9;
+color = 3;
 glyphname = hungarumlaut;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -9457,9 +9597,9 @@ width = 300;
 unicode = 733;
 },
 {
-color = 9;
+color = 3;
 glyphname = circumflex;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -9469,9 +9609,9 @@ width = 300;
 unicode = 710;
 },
 {
-color = 9;
+color = 3;
 glyphname = caron;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -9481,9 +9621,9 @@ width = 300;
 unicode = 711;
 },
 {
-color = 9;
+color = 3;
 glyphname = breve;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -9493,9 +9633,9 @@ width = 300;
 unicode = 728;
 },
 {
-color = 9;
+color = 3;
 glyphname = ring;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -9505,8 +9645,9 @@ width = 300;
 unicode = 730;
 },
 {
+color = 4;
 glyphname = tilde;
-lastChange = "2026-07-30 12:22:44 +0000";
+lastChange = "2026-07-30 12:33:25 +0000";
 layers = (
 {
 layerId = m01;
@@ -9521,9 +9662,9 @@ width = 519;
 unicode = 732;
 },
 {
-color = 9;
+color = 3;
 glyphname = macron;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -9533,9 +9674,9 @@ width = 300;
 unicode = 175;
 },
 {
-color = 9;
+color = 3;
 glyphname = cedilla;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -9545,9 +9686,9 @@ width = 300;
 unicode = 184;
 },
 {
-color = 9;
+color = 3;
 glyphname = ogonek;
-lastChange = "2026-07-30 12:19:24 +0000";
+lastChange = "2026-07-30 12:27:44 +0000";
 layers = (
 {
 layerId = m01;
