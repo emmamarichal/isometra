@@ -1,12 +1,6 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
-DisplayStrings = (
-"ETaovo
-AVATAR
-far fo
-HANDGLOVES"
-);
 customParameters = (
 {
 name = fsType;
